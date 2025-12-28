@@ -109,7 +109,6 @@ for ($i=1; $i -le 20; $i++) {
 - **Mata Kuliah**: Sistem Operasi
 - **Project**: Proyek 6 - Containerization dengan Docker
 - **Dosen**: Ferdi Chahyadi, S.Kom., M.Cs
-- **Institusi**: Universitas Maritim Raja Ali Haji
 - **Program Studi**: Teknik Informatika
 - **Tahun**: 2025
 
@@ -123,7 +122,3 @@ Melalui project ini, kelompok kami mempelajari:
 - Monitoring dan optimasi penggunaan resource
 - Best practice deployment aplikasi berbasis container
 
-## Lisensi
-
-
-Project ini dibuat untuk memenuhi tugas akhir mata kuliah Sistem Operasi.
